@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;}
+h1{
+    text-align: center;
+    color: #000;}
+
+h2{
+    color: #000;
+   text-align: left;
+    margin-left: 20px;}
+h3{
+    color: #000;
+    text-align: right;
+    margin-right: 20px;}
+h4{
+    color: #000;
+    text-align: center;
+    }
+h5{
+    color: #000;
+    text-align: justify;
+    margin-left: 20px;}
+p{
+    color: #000;
+    text-align: justify;
+    margin-left: 20px;
+}
